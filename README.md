@@ -2,7 +2,7 @@ SQL CLEANING & ANALYSIS -> [ Airlines_travel_SQL.md ](https://github.com/Andyeli
 
 TABLEAU DASHBOARD ->
 
-![](Airline_travel_assets/airticket.png =250x250)) 
+<img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airticket.png width="48">
 
 # Airlines & Travel
 
