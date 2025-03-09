@@ -12,7 +12,7 @@ TABLEAU DASHBOARD ->
 
 The dataset consists of several tables (8) which include aircrafts_data, airports_data, boarding_passes, bookings, flights, seat, ticket_flights, tickets.
 
-<img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airlinetables.png width="500">
+<img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airlinetables.png width="1200">
 
 ## Business Task & Objectives: 
   
