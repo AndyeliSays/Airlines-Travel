@@ -3,7 +3,6 @@ SQL CLEANING & ANALYSIS -> [ Airlines_travel_SQL.md ](https://github.com/Andyeli
 TABLEAU DASHBOARD ->
 
 <img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airticket.png width="300">
-<img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airlinetables.png width="500">
 
 # Airlines & Travel
 
@@ -11,7 +10,8 @@ TABLEAU DASHBOARD ->
   
   The airline industry generates vast amounts of data every day, ranging from flight schedules and passenger bookings to aircraft details and ticket sales. Analyzing this data can unlock valuable insights that help airlines improve operational efficiency, optimize revenue, and enhance passenger experience. This project focuses on analyzing a dataset related to airline operations to uncover meaningful patterns and trends.
 
-The dataset consists of several tables (8) which include aircrafts_data, airports_data, boarding_passes, bookings, flights, seat, ticket_flights, tickets
+The dataset consists of several tables (8) which include aircrafts_data, airports_data, boarding_passes, bookings, flights, seat, ticket_flights, tickets.
+<img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airlinetables.png width="500">
 
 ## Business Task & Objectives: 
   
