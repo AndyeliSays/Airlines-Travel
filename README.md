@@ -4,7 +4,7 @@ TABLEAU DASHBOARD ->
 
 <img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airline_travel_tableau.png>
 
-                                                                # <center>Airlines & Travel</center>
+<center>Airlines & Travel</center>
 
 ## Introduction:
   
