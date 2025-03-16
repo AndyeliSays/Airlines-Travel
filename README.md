@@ -1,10 +1,10 @@
-SQL CLEANING & ANALYSIS -> [ Airlines_travel_SQL.md ](https://github.com/AndyeliSays/Airlines/blob/main/Airlines_travel_SQL.md)
+--- SQL CLEANING & ANALYSIS -> [ Airlines_travel_SQL.md ](https://github.com/AndyeliSays/Airlines/blob/main/Airlines_travel_SQL.md)
 
-TABLEAU DASHBOARD ->
+--- TABLEAU DASHBOARD ->
 
 <img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airline_travel_tableau.png>
 
-# Airlines & Travel
+<h1 align="center">Airline Travel </h1>
 
 ## Introduction:
   
@@ -34,3 +34,7 @@ Some examples of questions, topics addressed but not limited to:
 ## Data Source: 
 [Airlines Dataset 1](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/data)
 [Airlines Dataset 2](https://www.kaggle.com/datasets/saadharoon27/airlines-dataset/data)
+
+---
+
+<h1 align="center">Insights </h1>
