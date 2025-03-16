@@ -38,3 +38,35 @@ Some examples of questions, topics addressed but not limited to:
 ---
 
 <h1 align="center">Insights </h1>
+
+## Operational Scale and Revenue
+- Total revenue generated is approximately $20.77 billion from 33,121 flights.
+- The airline served 262,788 bookings, suggesting an efficient booking-to-flight ratio.
+- Average revenue per flight appears to be around $627,000 indicating a profitable operation.
+
+## Fleet Performance
+- Airbus A321-200 is a significant contributor with 107,129 flights.
+- Boeing models (777-300, 767-300, 737-300) collectively account for a substantial portion of operations.
+- Regional aircraft like Bombardier CRJ-200 (150,122 flights) and Sukhoi Superjet-100 play important roles in the network.
+
+## Temporal Patterns
+- Weekday distribution shows highest traffic on Fridays (141,574 flights) and Sundays (153,136 flights).
+- Morning hours (9-11 AM) see peak traffic, with 11 AM having the highest number of flights (106,563).
+- Late night/early morning (1-3 AM) shows minimal activity, as expected.
+- Timeline chart shows seasonal variations with peaks around late July and early September.
+
+## Airport & Geographic Operations
+- Sheremetyevo International Airport dominates with 99,300 operations. Domodedovo International Airport follows closely with 97,441 operations.
+- Map shows a concetration of airports in western Russia with key regional hubs including smaller airports serving as regional connection points.
+- East to west connectivity appears stronger than north to south routes.
+
+## Passenger Behavior
+- Most bookings (173,397) are for single tickets.
+- Multi-ticket bookings decrease significantly as the number increases.
+- Business class generates substantial revenue, especially for long-haul aircrafts.
+
+## Recommendations
+- The airline should optimize scheduling for the most profitable time slots (9-11 AM).
+- Airlines should consider the strong performance of Airbus A321-200 and Bombardier CRJ-200.
+- Revenue optimization could focus on Friday and Sunday operations.
+- Airport operations at Sheremetyevo and Domodedovo and Pulkovo may benefit from efficiency improvements to reduce delays.
