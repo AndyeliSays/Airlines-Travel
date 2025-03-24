@@ -65,7 +65,8 @@ Some examples of questions, topics addressed but not limited to:
 - Multi-ticket bookings decrease significantly as the number increases.
 - Business class generates substantial revenue, especially for long-haul aircrafts.
 
-## Recommendations
+<h1 align="center">Recommendations</h1>
+
 - The airline should optimize scheduling for the most profitable time slots (9-11 AM).
 - Airlines should consider the strong performance of Airbus A321-200 and Bombardier CRJ-200.
 - Revenue optimization could focus on Friday and Sunday operations.
