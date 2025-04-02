@@ -1,6 +1,6 @@
 --- SQL CLEANING & ANALYSIS -> [ Airlines_travel_SQL.md ](https://github.com/AndyeliSays/Airlines/blob/main/Airlines_travel_SQL.md)
 
---- TABLEAU DASHBOARD -> [ Airline Travel ](https://public.tableau.com/app/profile/andyeli/viz/AirlinesTableau_17436375266610/Dashboard)
+--- TABLEAU DASHBOARD -> [ Airline Travel ](https://public.tableau.com/app/profile/andyeli/viz/AirlineTravel_17436379392860/Dashboard)
 
 <img src=https://github.com/AndyeliSays/Airlines_travel/blob/main/Airline_travel_assets/airline_travel_tableau.png>
 
